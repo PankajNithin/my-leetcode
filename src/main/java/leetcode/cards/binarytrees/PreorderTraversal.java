@@ -2,7 +2,6 @@ package leetcode.cards.binarytrees;
 
 import java.util.ArrayList;
 import java.util.List;
-import java.util.Objects;
 import java.util.Stack;
 
 //Given a root node of a binary tree perform a preorder traversal
