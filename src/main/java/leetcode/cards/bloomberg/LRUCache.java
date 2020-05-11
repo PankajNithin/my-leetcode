@@ -1,4 +1,4 @@
-package leetcode.problemset.bloomberg;
+package leetcode.cards.bloomberg;
 
 import java.util.HashMap;
 import java.util.Map;

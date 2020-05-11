@@ -1,8 +1,10 @@
-package leetcode.problemset.bloomberg;
+package leetcode.cards.bloomberg;
 
 import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
+
+import leetcode.cards.bloomberg.LRUCache;
 
 public class LRUCacheTest {
 
